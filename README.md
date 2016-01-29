@@ -8,7 +8,7 @@ Críticas, sugestões e elogios são bem vindos... Pull requests também!
 
 
 CRIAÇÃO DE UM AMBIENTE QUE SIMULA AS RELAÇÕES CLIENTE/EMPRESA NA ÁREA DE DESENVOLVIMENTO DE SOFTWARE
-
+-----------------------------------------------------------------------------------------------------
 
 INTRODUÇÃO
 		
@@ -18,10 +18,10 @@ A tecnologia da informação é uma área muito inovadora, isso necessita do pro
 
 COMO FUNCIONA O MERCADO DE TRABALHO
 											
-	Atualmente o mercado de trabalho funciona com empresas que precisam de alguma solução, coisas como modelar um banco de dados, criar um projeto de redes, um website, um software etc. o outro lado desse mercado são empresas que fornecem soluções nos mais diversos ramos da tecnologia da informação. Há também a parte dos projetos Indies e startups, que quando crescem acabam se tornando uma empresa de solução, uma empresa que demanda soluções, ou as duas coisas ao mesmo tempo.
+Atualmente o mercado de trabalho funciona com empresas que precisam de alguma solução, coisas como modelar um banco de dados, criar um projeto de redes, um website, um software etc. o outro lado desse mercado são empresas que fornecem soluções nos mais diversos ramos da tecnologia da informação. Há também a parte dos projetos Indies e startups, que quando crescem acabam se tornando uma empresa de solução, uma empresa que demanda soluções, ou as duas coisas ao mesmo tempo.
 Se tratando do mercado de trabalho na área de desenvolvimento de software, no geral as empresas contratam profissionais formados, que tenham experiência, mas caso tenha algum profissional que tem como provar que é capacitado para alguma tarefa, as empresas também contratam.
 	
-	Os profissionais dessa área no geral usam seus trabalhos anteriores para comprovar que são capacitados para determinada vaga de emprego/estágio, assim, utilizam como currículo, sua formação e seus códigos (github, SourceForge, GitLab, etc).
+Os profissionais dessa área no geral usam seus trabalhos anteriores para comprovar que são capacitados para determinada vaga de emprego/estágio, assim, utilizam como currículo, sua formação e seus códigos (github, SourceForge, GitLab, etc).
 
 ORGANIZAÇÃO DO AMBIENTE
 PS: Empresa  = (grupo formado por estudantes)
@@ -34,8 +34,8 @@ PS: Solução = (Algum projeto, geralmente algum software, que algum grupo vai e
 5.	no final do prazo, as empresas se reúnem para a entrega das soluções.
 
 ENCONTROS
-			
-	Os encontros podem ocorrer fisicamente (mais interação pessoal) ou até mesmo virtualmente (mais acessível com relação a distâncias geométricas), serão necessários no mínimo dois encontros: 
+	
+Os encontros podem ocorrer fisicamente (mais interação pessoal) ou até mesmo virtualmente (mais acessível com relação a distâncias geométricas), serão necessários no mínimo dois encontros: 
 	
 1.	O primeiro encontro ocorrerá no dia da formação dos grupos (empresas), nesse mesmo dia pode ocorrer um tipo de sorteio para definir quem vai ser contratado de quem e vice versa. 
 
